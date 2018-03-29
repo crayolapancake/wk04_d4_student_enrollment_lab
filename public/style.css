@@ -1,0 +1,15 @@
+body {
+  background-color: lightgrey;
+  display: flex;
+  flex-flow: column;
+}
+
+form {
+  display: flex;
+  flex-flow: column;
+}
+
+.add-student {
+  max-width: 50%;
+  justify-content: center;
+}
